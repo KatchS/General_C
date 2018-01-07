@@ -11,7 +11,7 @@
 
 /*
     buf[] - an array of char to except the input
-    max_char - an int that specify how many character are to be expected
+    max_char - an int that specify how many character are to be read
     return - an int represent the number of character that was inserted to buf
 */
 int read_line(char buf[], int max_char)
