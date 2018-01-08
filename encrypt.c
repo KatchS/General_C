@@ -7,8 +7,9 @@
 
 /* 
     goes through the array and manipulate each char
-    
     can be change to create more complicated encription
+    
+    *word - char array representing a given word (string)
 */
 void encript(char *word)
 {
