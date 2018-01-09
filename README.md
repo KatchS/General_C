@@ -1,2 +1,2 @@
 # General_C
-general C code solution
+general C code solutions
