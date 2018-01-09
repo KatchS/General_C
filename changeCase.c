@@ -11,7 +11,7 @@
 int lower_case(char *word){
     int i=0;
     while(word[i] != '\0'){
-        if(word[i] > 64 && word[i] < 91){ // checks if it upper cased letter
+        if(word[i] > 64 && word[i] < 91){ // checks if it is an upper cased letter
             word[i] += 32;
         }
         i++;
@@ -28,7 +28,7 @@ int lower_case(char *word){
 int upper_case(char *word){
     int i=0;
     while(word[i] != '\0'){
-        if(word[i] > 96 && word[i] < 123){ // checks if it lower cased letter
+        if(word[i] > 96 && word[i] < 123){ // checks if it is a lower cased letter
             word[i] -= 32;
         }
         i++;
