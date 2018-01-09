@@ -21,7 +21,7 @@ int encrypt(char *word)
         word[i]++;
         i++;
     }
-    return ++i; // add one since the NIL terminator is not being count in the loop
+    return ++i; // add one since the NIL terminator is not being counted in the loop
 }
 
 int main(int argc, char **argv)
