@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /* 
-   encript the given string 
-   basic incription (add one to any char)
+   encrypt the given string 
+   basic encryption (add one to any char)
 
    (can be used as tamplate to more complicated encryptions)
 */
