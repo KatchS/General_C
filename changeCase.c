@@ -5,7 +5,7 @@
 /*
     turn the given char array (string) into lower case letters only.
 
-    *word - a char array (string) to change.
+    word[] - a char array (string) to change.
     return - the length of the array.
 */
 int lower_case(char word[]){
@@ -22,7 +22,7 @@ int lower_case(char word[]){
 /*
     turn the given char array (string) into upper case letters only.
 
-    *word - a char array (string) to change.
+    word[] - a char array (string) to change.
     return - the length of the array.
 */
 int upper_case(char word[]){
